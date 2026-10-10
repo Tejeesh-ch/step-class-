@@ -1,0 +1,2 @@
+# Keeps the empty source root tracked on the develop branch.
+# Per the workflow guide, develop holds the project skeleton only -- no solved problems.

@@ -1,0 +1,14 @@
+# Java compiled output
+*.class
+out/
+bin/
+
+# Freebuff workspace metadata
+.freebuff/
+
+# Editor / OS noise
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
